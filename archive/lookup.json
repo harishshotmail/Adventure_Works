@@ -30,23 +30,23 @@
     "dynamic_folder_name": "AdventureWorks_Returns"
   },
   {
+    "dynamic_rel_url": "Adventure_Works/refs/heads/main/archive/AdventureWorks_Sales_2015.csv",
+    "dynamic_file_name": "Sales_2015.csv",
+    "dynamic_folder_name": "AdventureWorks_Sales_2015"
+  },
+   {
+    "dynamic_rel_url": "Adventure_Works/refs/heads/main/archive/AdventureWorks_Sales_2016.csv",
+    "dynamic_file_name": "Sales_2016.csv",
+    "dynamic_folder_name": "AdventureWorks_Sales_2016"
+  },
+  {
     "dynamic_rel_url": "Adventure_Works/refs/heads/main/archive/AdventureWorks_Sales_2017.csv",
     "dynamic_file_name": "Sales_2017.csv",
     "dynamic_folder_name": "AdventureWorks_Sales_2017"
   },
   {
-    "dynamic_rel_url": "Adventure_Works/refs/heads/main/archive/AdventureWorks_Sales_2018.csv",
-    "dynamic_file_name": "Sales_2018.csv",
-    "dynamic_folder_name": "AdventureWorks_Sales_2018"
-  },
-  {
     "dynamic_rel_url": "Adventure_Works/refs/heads/main/archive/AdventureWorks_Territories.csv",
     "dynamic_file_name": "Territories.csv",
     "dynamic_folder_name": "AdventureWorks_Territories"
-  },
-  {
-    "dynamic_rel_url": "Adventure_Works/blob/main/archive/AdventureWorks_Product_Categories.csv",
-    "dynamic_file_name": "Product_Categories.csv",
-    "dynamic_folder_name": "AdventureWorks_Product_Categories"
   }
 ]
