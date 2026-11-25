@@ -1,46 +1,46 @@
 [
   {
-    "dynamic_rel_url": "Adventure_Works/blob/main/archive/AdventureWorks_Calendar.csv",
+    "dynamic_rel_url": "Adventure_Works/refs/heads/main/archive/AdventureWorks_Calendar.csv",
     "dynamic_file_name": "Calendar.csv",
     "dynamic_folder_name": "AdventureWorks_Calendar"
   },
   {
-    "dynamic_rel_url": "Adventure_Works/blob/main/archive/AdventureWorks_Customers.csv",
+    "dynamic_rel_url": "Adventure_Works/refs/heads/main/archive/AdventureWorks_Customers.csv",
     "dynamic_file_name": "Customers.csv",
     "dynamic_folder_name": "AdventureWorks_Customers"
   },
   {
-    "dynamic_rel_url": "Adventure_Works/blob/main/archive/AdventureWorks_Product_Categories.csv",
+    "dynamic_rel_url": "Adventure_Works/refs/heads/main/archive/AdventureWorks_Product_Categories.csv",
     "dynamic_file_name": "Product_Categories.csv",
     "dynamic_folder_name": "AdventureWorks_Product_Categories"
   },
   {
-    "dynamic_rel_url": "Adventure_Works/blob/main/archive/AdventureWorks_Product_Subcategories.csv",
+    "dynamic_rel_url": "Adventure_Works/refs/heads/main/archive/AdventureWorks_Product_Subcategories.csv",
     "dynamic_file_name": "Product_Subcategories.csv",
     "dynamic_folder_name": "AdventureWorks_Product_Subcategories"
   },
   {
-    "dynamic_rel_url": "Adventure_Works/blob/main/archive/AdventureWorks_Products.csv",
+    "dynamic_rel_url": "Adventure_Works/refs/heads/main/archive/AdventureWorks_Products.csv",
     "dynamic_file_name": "Products.csv",
     "dynamic_folder_name": "AdventureWorks_Products"
   },
   {
-    "dynamic_rel_url": "Adventure_Works/blob/main/archive/AdventureWorks_Returns.csv",
+    "dynamic_rel_url": "Adventure_Works/refs/heads/main/archive/AdventureWorks_Returns.csv",
     "dynamic_file_name": "Returns.csv",
     "dynamic_folder_name": "AdventureWorks_Returns"
   },
   {
-    "dynamic_rel_url": "Adventure_Works/blob/main/archive/AdventureWorks_Sales_2017.csv",
+    "dynamic_rel_url": "Adventure_Works/refs/heads/main/archive/AdventureWorks_Sales_2017.csv",
     "dynamic_file_name": "Sales_2017.csv",
     "dynamic_folder_name": "AdventureWorks_Sales_2017"
   },
   {
-    "dynamic_rel_url": "Adventure_Works/blob/main/archive/AdventureWorks_Sales_2018.csv",
+    "dynamic_rel_url": "Adventure_Works/refs/heads/main/archive/AdventureWorks_Sales_2018.csv",
     "dynamic_file_name": "Sales_2018.csv",
     "dynamic_folder_name": "AdventureWorks_Sales_2018"
   },
   {
-    "dynamic_rel_url": "Adventure_Works/blob/main/archive/AdventureWorks_Territories.csv",
+    "dynamic_rel_url": "Adventure_Works/refs/heads/main/archive/AdventureWorks_Territories.csv",
     "dynamic_file_name": "Territories.csv",
     "dynamic_folder_name": "AdventureWorks_Territories"
   },
